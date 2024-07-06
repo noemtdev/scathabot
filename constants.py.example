@@ -1,0 +1,10 @@
+SCATHA_EMOJI = "<:SCATHA:1259226923909779557>"
+WORM_EMOJI = "<:WORM:1259227429202038876>"
+NOSCATHAS_EMOJI = "<:NOSCATHAS:1259234465146863697>"
+# change up the emojis for your emojis
+
+user_role = 123
+bot_owner_id = 123
+
+SCATHA_IMAGE = "https://wiki.hypixel.net/images/e/e5/SkyBlock_pets_scatha.png"
+API_KEY = "" # hypixel api key
